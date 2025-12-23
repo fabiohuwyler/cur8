@@ -28,9 +28,11 @@ Modern, gradient-styled interface at `/cur8` for creating updates.
 
 ### Admin Dashboard
 Manage all your updates with filtering, stats, and quick actions.
+![alt text](https://github.com/fabiohuwyler/cur8/blob/main/screenshots/cur8_admin.png?raw=true)
 
 ### Frontend Display
 Beautiful grid or list layouts with 5 customizable themes.
+![alt text](https://github.com/fabiohuwyler/cur8/blob/main/screenshots/cur8_display.png?raw=true)
 
 ## 🚀 Installation
 
