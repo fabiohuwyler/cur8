@@ -23,6 +23,8 @@ A beautiful WordPress plugin for curating and sharing status updates, images, qu
 
 ### Posting Interface
 Modern, gradient-styled interface at `/cur8` for creating updates.
+![alt text](https://github.com/fabiohuwyler/cur8/blob/main/screenshots/cur8_posting.png?raw=true)
+
 
 ### Admin Dashboard
 Manage all your updates with filtering, stats, and quick actions.
