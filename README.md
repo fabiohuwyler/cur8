@@ -1,4 +1,4 @@
-# Cur8 🎨
+# Cur8 Wordpress Plugin
 
 A beautiful WordPress plugin for curating and sharing status updates, images, quotes, and locations with a modern, intuitive interface.
 
@@ -246,7 +246,6 @@ This project is licensed under the GPL v2 or later - see the [LICENSE](LICENSE) 
 
 For support, please:
 - Open an issue on [GitHub](https://github.com/fabiohuwyler/cur8/issues)
-- Visit the [WordPress.org support forum](https://wordpress.org/support/plugin/cur8/)
 
 ---
 
